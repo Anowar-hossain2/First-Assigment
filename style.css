@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Roboto:wght@400;700&display=swap');
+body{
+    margin: 0%;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#header{
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.4)), url(images/donation11.jpg) no-repeat center / cover;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    color: #ffff;
+}
+.h1-title{
+    font-size: 50px;
+    padding-top: 180px;
+}
+.btn{
+   background-color: rgb(241, 164, 21);
+   padding: 15px 32px;
+   border-radius: 10px;
+   text-align: center;
+   font-size: 25px;
+   text-decoration: none;
+   border: none;
+   color: #ffff;
+   margin-top: 15px;
+}
+.btn:hover{
+    color: black;
+    background-color: #ffff;
+    border: 4px solid black;
+} 
+.donate-today{
+    text-align: center;
+}
+.donate-box{
+    display: flex;
+    padding-left: 200px;
+    margin-top: 60px;
+}
+.donate-box p{
+    text-align: center;
+    padding-left: 30px;
+    font-size: 40px;
+    padding: 40px 20px;
+    background-color: rgb(188, 188, 195);
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 20px;
+    border: 4px solid red;
+}
+.h2-title{
+    font-size: 40px;
+    margin-top: 100px;
+}
+.active-item{
+    padding: 40px 20px;
+    background-color: rgb(34, 31, 126);
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 20px;
+    color:red ;
+    border: 4px solid red;
+}.active-item:hover{
+    background-color: #ffff;
+    color: black;
+}
+
+.input-btn{
+    text-align: center;
+}
+.input-fld{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid silver;
+    
+
+}
+.border{
+    border: 1px solid silver;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.food-family{
+    width: 400px;
+    height: 200px;
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 15px 15px;
+}
+.food-family:hover{
+    background-color: #ffff;
+    border: 4px solid black;
+}
+.sheltar{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(247, 165, 42);
+    text-align: center;
+    margin-left: 30px;
+    padding: 15px 15px;
+}
+.sheltar:hover{
+    background-color: #ffff;
+    border: 4px solid black;
+
+}
+.education{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(245, 195, 120);
+    text-align: center;
+    margin-left: 30px;
+    padding: 15px 15px;
+}
+.education:hover{
+    background-color: #ffff;
+    border: 4px solid black;
+}
+
+
+.donate{
+    display: flex;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.donate-plan{
+    text-align: center;
+    margin-right: 00px;
+
+}
+.contribute{
+    display: flex;
+    padding: 80px 100px;
+}
+.img{
+    width: 500px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.survive{
+    display: flex;
+    padding: 80px 100px; 
+}
+.img2{
+    width: 500px;
+    height: 400px;
+    margin-top: 40px;
+    margin-right: 60px;
+}
+.updates{
+    text-align: center;
+}
+.email-box{
+    height: 100px;
+    width: 700px;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.email-box1{
+    margin-left: 300px;
+}
+.input-email{
+    margin-top: 35px;
+    padding: 5px 10px;
+}
+.btn-2{
+    padding: 7px 20px;
+    background-color: rgb(163, 56, 56);
+    border: none;
+    border-radius: 5px;
+    color: #ffff;
+}
+.btn-2:hover{
+    background-color: #ffff;
+    color: black;
+}
+.footer-content{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    margin-top: 100px;
+    text-align: center;
+}
+.h3-title{
+    color: rgb(205, 13, 13);
+    padding-top: 50px;
+    font-size: 30px;
+
+    
+}
+span{
+    color: #ffff;
+}
